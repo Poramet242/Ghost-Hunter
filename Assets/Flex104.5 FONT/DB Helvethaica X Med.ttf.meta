@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aa0a89ea7efb14e458969f2dc89419fd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DB Helvethaica X
+  fontNames:
+  - DB Helvethaica X
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e9986db077329654191eb2be0364632e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

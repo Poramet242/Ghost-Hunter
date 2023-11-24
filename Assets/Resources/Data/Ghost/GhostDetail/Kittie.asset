@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ad8d5701acaa7a478e73a3277067c77, type: 3}
+  m_Name: Kittie
+  m_EditorClassIdentifier: 
+  ghostName: Kittie
+  ghostID: A11
+  _iconGhost: {fileID: 0}
+  _rarityType: 1
+  _prefabsGhost: {fileID: 4873292600552016063, guid: 8fe6f30de73820c44aab64e53ab5a701,
+    type: 3}
+  _ghost_ctr: {fileID: 4814979682898164410, guid: 8fe6f30de73820c44aab64e53ab5a701,
+    type: 3}

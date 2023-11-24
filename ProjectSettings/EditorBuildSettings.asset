@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/LoginScenes.unity
+    guid: cdb995695529f6748ab76dc8fb811eee
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Location_basedGameplay.unity
+    guid: 3bd2fa2a1e422694a9016c784a8a2977
+  - enabled: 0
+    path: Assets/Scenes/Gameplay/UI_Location_basedGameplay.unity
+    guid: 9c1af3befd81ead4bb15be4b067ef27d
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Capture_Gameplay.unity
+    guid: 9a8122d4c9296b744b115fca8a51efcc
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/BlockupMapDisplay.unity
+    guid: 4e574e884381918478fb8016cec2aa5e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cd9df6d929566ba479ba8c458b8c3e26,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 9726bb76d47ebf041bc4ef67cfbb95f9,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 9489afd23dc8a3f438480bc89f92ce6a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7943ae209cfd16d48b1c68b7bb2a2354,
+      type: 2}

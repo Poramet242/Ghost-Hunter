@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 92ab2f8534a9d7f46b1603666c1d2567
+timeCreated: 1524992525
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm_lower.L
+    100002: arm_lower.R
+    100004: arm_upper.L
+    100006: arm_upper.L_end
+    100008: arm_upper.R
+    100010: arm_upper.R_end
+    100012: body
+    100014: c90
+    100016: elbow.L
+    100018: elbow.L_end
+    100020: elbow.R
+    100022: elbow.R_end
+    100024: finger_1.L
+    100026: finger_1.L_end
+    100028: finger_1.R
+    100030: finger_1.R_end
+    100032: finger_2.L
+    100034: finger_2.L_end
+    100036: finger_2.R
+    100038: finger_2.R_end
+    100040: foot.L
+    100042: foot.R
+    100044: hand.L
+    100046: hand.R
+    100048: head
+    100050: head_end
+    100052: knee.L
+    100054: knee.L_end
+    100056: knee.R
+    100058: knee.R_end
+    100060: lag_lower.L
+    100062: lag_lower.L_end
+    100064: lag_lower.R
+    100066: lag_lower.R_end
+    100068: lag_upper.L
+    100070: lag_upper.R
+    100072: master
+    100074: rig
+    100076: //RootNode
+    100078: thom.L
+    100080: thom.L_end
+    100082: thom.R
+    100084: thom.R_end
+    100086: tow_1.L
+    100088: tow_1.L_end
+    100090: tow_1.R
+    100092: tow_1.R_end
+    100094: tow_2.L
+    100096: tow_2.L_end
+    100098: tow_2.R
+    100100: tow_2.R_end
+    100102: WGT-body
+    100104: WGT-elbow
+    100106: WGT-finger
+    100108: WGT-foot
+    100110: WGT-hand
+    100112: WGT-hand.L
+    100114: WGT-hand.R
+    100116: WGT-head
+    100118: WGT-master
+    400000: arm_lower.L
+    400002: arm_lower.R
+    400004: arm_upper.L
+    400006: arm_upper.L_end
+    400008: arm_upper.R
+    400010: arm_upper.R_end
+    400012: body
+    400014: c90
+    400016: elbow.L
+    400018: elbow.L_end
+    400020: elbow.R
+    400022: elbow.R_end
+    400024: finger_1.L
+    400026: finger_1.L_end
+    400028: finger_1.R
+    400030: finger_1.R_end
+    400032: finger_2.L
+    400034: finger_2.L_end
+    400036: finger_2.R
+    400038: finger_2.R_end
+    400040: foot.L
+    400042: foot.R
+    400044: hand.L
+    400046: hand.R
+    400048: head
+    400050: head_end
+    400052: knee.L
+    400054: knee.L_end
+    400056: knee.R
+    400058: knee.R_end
+    400060: lag_lower.L
+    400062: lag_lower.L_end
+    400064: lag_lower.R
+    400066: lag_lower.R_end
+    400068: lag_upper.L
+    400070: lag_upper.R
+    400072: master
+    400074: rig
+    400076: //RootNode
+    400078: thom.L
+    400080: thom.L_end
+    400082: thom.R
+    400084: thom.R_end
+    400086: tow_1.L
+    400088: tow_1.L_end
+    400090: tow_1.R
+    400092: tow_1.R_end
+    400094: tow_2.L
+    400096: tow_2.L_end
+    400098: tow_2.R
+    400100: tow_2.R_end
+    400102: WGT-body
+    400104: WGT-elbow
+    400106: WGT-finger
+    400108: WGT-foot
+    400110: WGT-hand
+    400112: WGT-hand.L
+    400114: WGT-hand.R
+    400116: WGT-head
+    400118: WGT-master
+    2100000: white
+    2100002: light gray
+    2100004: gray
+    2100006: black
+    2300000: WGT-body
+    2300002: WGT-finger
+    2300004: WGT-foot
+    2300006: WGT-hand
+    2300008: WGT-hand.L
+    2300010: WGT-hand.R
+    2300012: WGT-head
+    2300014: WGT-master
+    3300000: WGT-body
+    3300002: WGT-finger
+    3300004: WGT-foot
+    3300006: WGT-hand
+    3300008: WGT-hand.L
+    3300010: WGT-hand.R
+    3300012: WGT-head
+    3300014: WGT-master
+    4300000: WGT-foot
+    4300002: WGT-finger
+    4300004: WGT-master
+    4300006: WGT-hand.R
+    4300008: WGT-hand.L
+    4300010: WGT-hand
+    4300012: WGT-body
+    4300014: WGT-head
+    4300016: c90
+    9500000: //RootNode
+    13700000: c90
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

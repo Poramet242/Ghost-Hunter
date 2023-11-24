@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ad8d5701acaa7a478e73a3277067c77, type: 3}
+  m_Name: Franken_F
+  m_EditorClassIdentifier: 
+  ghostName: Franken (F)
+  ghostID: A6
+  _iconGhost: {fileID: 0}
+  _rarityType: 2
+  _prefabsGhost: {fileID: 5428850394154281803, guid: 6155098c7da04dd46b3c27d0a079448d,
+    type: 3}
+  _ghost_ctr: {fileID: 1417437886950994551, guid: 6155098c7da04dd46b3c27d0a079448d,
+    type: 3}

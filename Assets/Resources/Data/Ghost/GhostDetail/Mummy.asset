@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ad8d5701acaa7a478e73a3277067c77, type: 3}
+  m_Name: Mummy
+  m_EditorClassIdentifier: 
+  ghostName: Mummy
+  ghostID: A7
+  _iconGhost: {fileID: 0}
+  _rarityType: 1
+  _prefabsGhost: {fileID: 6431119081929290555, guid: 1a766f30b0cfc144ba2c18b9d3022bb1,
+    type: 3}
+  _ghost_ctr: {fileID: 6196536830883234373, guid: 1a766f30b0cfc144ba2c18b9d3022bb1,
+    type: 3}
